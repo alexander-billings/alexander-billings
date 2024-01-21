@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Cyber Security, and Game Systems
 - 🌱 I’m currently learning Natural Language Processing and AWS Cloud Architecture.
 - 💞️ I’m looking to collaborate on data analytics
-- 📫 How to reach me: I'm on Twitter as @CMDerCatnip
+- 📫 How to reach me: I'm on Mastodon and BlueSky as @CMDerCatnip
 
 <!---
 alexander-billings/alexander-billings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
